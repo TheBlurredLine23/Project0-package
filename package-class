@@ -8,7 +8,7 @@
 public class Package
 {
     // instance variables - replace the example below with your own
-    private int x;
+    private int ;
 
     /**
      * Constructor for objects of class Package
